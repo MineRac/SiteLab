@@ -1,24 +1,24 @@
 name: Deploy to Web Server
 
 on:
-push:
-branches:
-- develop
+  push:
+    branches:
+      - develop
 
 jobs:
-deploy:
-runs-on: ubuntu-latest
+  deploy:
+    runs-on: ubuntu-latest
 
-steps:
-- name: Checkout Repository
-uses: actions/checkout@v2
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-- name: Deploy to Web Server
-uses: appleboy/ssh-action@master
-with:
-host: ${{ secrets.WEB_SERVER_HOST }}
-username: ${{ secrets.WEB_SERVER_USERNAME }}
-key: ${{ secrets.WEB_SERVER_SSH_KEY }}
-script: |
-cd /var/www/html
-git pull origin develop
+      - name: Deploy to Web Server
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.WEB_SERVER_HOST }}
+          username: ${{ secrets.WEB_SERVER_USERNAME }}
+          key: ${{ secrets.WEB_SERVER_SSH_KEY }}
+          script: |
+            cd /var/www/html
+            git pull origin develop
