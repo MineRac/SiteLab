@@ -20,5 +20,5 @@ jobs:
           username: ${{ secrets.WEB_SERVER_USERNAME }}
           key: ${{ secrets.WEB_SERVER_SSH_KEY }}
           script: |
-            cd /var/www/html
+            cd /var/www/php
             git pull origin develop
