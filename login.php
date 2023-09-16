@@ -53,7 +53,7 @@ if (isset($_POST['username'])) {
             <span class="desc" style="color: lightcoral">Cлишком короткий пароль</span>
             <?php
         } ?>
-        <form action="/login.php" method="post">
+        <form action="http://45.152.114.177/php/login.php" method="post">
             <input type="hidden" name="type" value="login">
             <label>
                 <input name="username" type="text" placeholder="Ваш логин">
