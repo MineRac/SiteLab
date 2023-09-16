@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="762808b7-3f1f-407f-b052-82abe36c18c0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/pma/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$USER_HOME$/Downloads/php-8.2.5-nts-Win32-vs16-x64/lib" />
+      <path value="$USER_HOME$/Downloads/php-8.2.5-nts-Win32-vs16-x64/extras" />
+      <path value="$USER_HOME$/Downloads/php-8.2.5-nts-Win32-vs16-x64/ext" />
+      <path value="$USER_HOME$/Downloads/php-8.2.5-nts-Win32-vs16-x64/dev" />
+      <path value="$PROJECT_DIR$/pma/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/pma/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/pma/vendor/thecodingmachine/safe" />
+      <path value="$PROJECT_DIR$/pma/vendor/slim/psr7" />
+      <path value="$PROJECT_DIR$/pma/vendor/paragonie/sodium_compat" />
+      <path value="$PROJECT_DIR$/pma/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/pma/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/pma/vendor/league/uri-interfaces" />
+      <path value="$PROJECT_DIR$/pma/vendor/league/uri" />
+      <path value="$PROJECT_DIR$/pma/vendor/web-auth/webauthn-lib" />
+      <path value="$PROJECT_DIR$/pma/vendor/web-auth/metadata-service" />
+      <path value="$PROJECT_DIR$/pma/vendor/web-auth/cose-lib" />
+      <path value="$PROJECT_DIR$/pma/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/pma/vendor/google/recaptcha" />
+      <path value="$PROJECT_DIR$/pma/vendor/spomky-labs/base64url" />
+      <path value="$PROJECT_DIR$/pma/vendor/spomky-labs/cbor-php" />
+      <path value="$PROJECT_DIR$/pma/vendor/fgrosse/phpasn1" />
+      <path value="$PROJECT_DIR$/pma/vendor/williamdes/mariadb-mysql-kbs" />
+      <path value="$PROJECT_DIR$/pma/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/pma/vendor/pragmarx/google2fa-qrcode" />
+      <path value="$PROJECT_DIR$/pma/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/pma/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/pma/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/pma/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/pma/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/pma/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/pma/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/pma/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/pma/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/pma/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/pma/vendor/code-lts/u2f-php-server" />
+      <path value="$PROJECT_DIR$/pma/vendor/tecnickcom/tcpdf" />
+      <path value="$PROJECT_DIR$/pma/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/pma/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/pma/vendor/composer" />
+      <path value="$PROJECT_DIR$/pma/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/pma/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/pma/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/pma/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/pma/vendor/phpmyadmin/sql-parser" />
+      <path value="$PROJECT_DIR$/pma/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/pma/vendor/phpmyadmin/twig-i18n-extension" />
+      <path value="$PROJECT_DIR$/pma/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/pma/vendor/phpmyadmin/motranslator" />
+      <path value="$PROJECT_DIR$/pma/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/pma/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/pma/vendor/phpmyadmin/shapefile" />
+      <path value="$PROJECT_DIR$/pma/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/pma/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/pma/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/pma/vendor/beberlei/assert" />
+      <path value="$PROJECT_DIR$/pma/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/pma/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/pma/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/pma/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/pma/vendor/symfony/cache-contracts" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2Oxi8uHhdObIexUB4lq1buFimRQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/vopoj/Desktop/htdocs/static",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vopoj\Desktop\htdocs\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vopoj\PhpstormProjects\site\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="762808b7-3f1f-407f-b052-82abe36c18c0" name="Changes" comment="" />
+      <created>1682508478521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682508478521</updated>
+      <workItem from="1682508479436" duration="1347000" />
+      <workItem from="1683133392878" duration="7733000" />
+      <workItem from="1683188818570" duration="1630000" />
+      <workItem from="1683875220438" duration="1616000" />
+      <workItem from="1683877310897" duration="318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
