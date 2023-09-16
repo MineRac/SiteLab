@@ -6,7 +6,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="static/style.css">
+    <link rel="stylesheet" href="http://45.152.114.177/php/static/style.css">
     <title>Site</title>
 </head>
 <body>  
@@ -31,7 +31,7 @@
     <div class="burger-menu">
         <div class="block">
             <span class="title">Ссылки</span>
-            <a href="/login.php">
+            <a href="http://45.152.114.177/php/login.php">
                 <?php
                 $dbhelper = new DBHelper();
                 if (isset($_COOKIE['token'])) {
@@ -41,12 +41,12 @@
                 }
                 ?>
             </a>
-            <a href="https://t.me/zadlim">Телеграм</a>
-            <a href="mailto:zadli@evileat.org">Почта</a>
+            <a href="https://t.me/danya_maloy">Телеграм</a>
+            <a href="mailto:minerec5@gmail.com">Почта</a>
         </div>
         <div class="block">
             <span class="title">Страницы</span>
-            <a style="width: fit-content" href="/index.php">Главная</a>
+            <a style="width: fit-content" href="http://45.152.114.177/php/index.php">Главная</a>
             <a style="width: fit-content" href="http://45.152.114.177/php/page2.php">Страница 2</a>
             <a style="width: fit-content" href="http://45.152.114.177/php/page3.php">Страница 3</a>
             <a style="width: fit-content" href="http://45.152.114.177/php/page4.php">Страница 4</a>
@@ -54,7 +54,7 @@
         </div>
     </div>
     <div class="burger-icon" onclick="show_burger()">
-        <img src="static/burger.svg" >
+        <img src="http://45.152.114.177/php/static/burger.svg" >
     </div>
     <div class="block">
         <div class="avatar">
