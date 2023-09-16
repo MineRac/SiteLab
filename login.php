@@ -6,14 +6,14 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="http://45.152.114.177/php/static/style.css">
     <title>Site</title>
 </head>
 <body>
 <?php
 if (isset($_COOKIE['token'])) {
     setcookie("token", "", time()-3600);
-    Header("Location: /index.php");
+    Header("Location: http://45.152.114.177/php/index.php");
 }
 
 if (isset($_POST['username'])) {
@@ -32,7 +32,7 @@ if (isset($_POST['username'])) {
         $errors = 1;
     } else {
         setcookie("token", $token);
-        Header("Location: /index.php");
+        Header("Location: http://45.152.114.177/php/index.php");
     }
 
 }
@@ -62,7 +62,7 @@ if (isset($_POST['username'])) {
                 <input name="password" minlength="8"  type="password" placeholder="Ваш пароль">
             </label>
             <button type="submit">Войти</button>
-            <a href="\register.php">Регистрация</a>
+            <a href="http://45.152.114.177/php/register.php">Регистрация</a>
         </form>
     </div>
 </div>
