@@ -1,4 +1,4 @@
-<?php require_once('http://45.152.114.177/php/db_helper.php'); ?>
+<?php require_once('db_helper.php'); ?>
 <!doctype html>
 <html lang="en">
 <head>
