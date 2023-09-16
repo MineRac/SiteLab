@@ -43,7 +43,7 @@ if (isset($_POST['username'])) {
         <?php
             if(isset($errors)) {
         ?>
-        <span class="desc" style="color: lightcoral">Имя пользоваdsadasdтелaaaaяиь не верны или данный логин уже занят</span>
+        <span class="desc" style="color: lightcoral">Имя пользоваdsadasdтadasdasdелaaaaяиь не верны или данный логин уже занят</span>
         <?php
             } ?>
 
