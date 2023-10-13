@@ -71,7 +71,7 @@
             </span>
         <span class="subtitle">Курс 3</span>
         <span class="desc">
-                Пока ничего, но скоро сдавать курсовую)
+                Пока ничего, но скоро сдавать курсовую. Дада
             </span>
     </div>
 <div class="block">
