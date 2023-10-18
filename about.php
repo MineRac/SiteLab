@@ -61,7 +61,7 @@
             <img src="https://cdn4.telegram-cdn.org/file/Bl7aLbU0cEJsu6bbCdGWXMLK00K_KcNmHg43XXjZJFrfS5K2SWHvfNU8-8UigP7uROnpR8O_FOoYgr3y_rvHkCEDVov1iqREdHguZyG4dKlte7E0JeMHHhnL3DbsxUtaPo1hLia6ficVdhehXQND1vHnfhcHOUHj8BoUQ0tcqK6y_Q_PsIZEl9mJEY53P6aczJ2RomoYKBnrIIwjIxd0_fVuxrwC92Aw0jaGvEbwWiUXU3rey4O3pHxASnf5l2PmBK5LSYcyS_BwSpzL1ddsro1OHiKHdJzH7u6a3BzyfclAutRpk_H1pa1gddZzRrvFO4WZQz5qJ183Dzql9tzh5g.jpg">
         </div>
         <span class="title">
-                Добро пожаловать на мой сайт! Меня зовут Даниил. На данном сайте вы можете ознакомится с моими работами.
+                Добро пожаловать на мой сайт Меня зовут Даниил. На данном сайте вы можете ознакомится с моими работами.
             </span>
         <span class="desc">
                 
