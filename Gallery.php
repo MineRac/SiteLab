@@ -13,11 +13,11 @@
 </head>
 <body>
 <div class="buttons">
-    <a href="http://45.152.114.177/php/index.php">Главная</a>
+    <a href="index.php">Главная</a>
     <a href="mailto:minerec5@gmail.com">Почта</a>
     <a href="https://t.me/danya_maloy">Телеграм</a>
-    <a href="http://45.152.114.177/php/about.php">Обо мнеeeeeeeeeeeeeeeeeeeeeeeeee</a>
-    <a href="http://45.152.114.177/php/login.php">
+    <a href="about.php">Обо мнеeeeeeeeeeeeeeeeeeeeeeeeee</a>
+    <a href="login.php">
         <?php
         $dbhelper = new DBHelper();
         if (isset($_COOKIE['token'])) {
@@ -32,7 +32,7 @@
     <div class="burger-menu">
         <div class="block">
             <span class="title">Ссылки</span>
-            <a href="http://45.152.114.177/php/login.php">
+            <a href="login.php">
                 <?php
                 $dbhelper = new DBHelper();
                 if (isset($_COOKIE['token'])) {
@@ -47,15 +47,15 @@
         </div>
         <div class="block">
             <span class="title">Страницы</span>
-            <a style="width: fit-content" href="http://45.152.114.177/php/index.php">Главная</a>
-            <a style="width: fit-content" href="http://45.152.114.177/php/page2.php">Страница 2</a>
-            <a style="width: fit-content" href="http://45.152.114.177/php/page3.php">Страница 3</a>
-            <a style="width: fit-content" href="http://45.152.114.177/php/page4.php">Страница 4</a>
-            <a style="width: fit-content" href="http://45.152.114.177/php/page5.php">Страница 5</a>
+            <a style="width: fit-content" href="index.php">Главная</a>
+            <a style="width: fit-content" href="page2.php">Страница 2</a>
+            <a style="width: fit-content" href="page3.php">Страница 3</a>
+            <a style="width: fit-content" href="page4.php">Страница 4</a>
+            <a style="width: fit-content" href="page5.php">Страница 5</a>
         </div>
     </div>
     <div class="burger-icon" onclick="show_burger()">
-        <img src="http://45.152.114.177/php/static/burger.svg" >
+        <img src="burger.svg" >
     </div>
     <div class="block white">
         <span class="title">
