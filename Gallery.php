@@ -16,7 +16,7 @@
     <a href="http://45.152.114.177/php/index.php">Главная</a>
     <a href="mailto:minerec5@gmail.com">Почта</a>
     <a href="https://t.me/danya_maloy">Телеграм</a>
-    <a href="http://45.152.114.177/php/about.php">Обо мне</a>
+    <a href="http://45.152.114.177/php/about.php">Обо мнеeeeeeeeeeeeeeeeeeeeeeeeee</a>
     <a href="http://45.152.114.177/php/login.php">
         <?php
         $dbhelper = new DBHelper();
