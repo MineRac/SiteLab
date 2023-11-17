@@ -6,7 +6,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="http://45.152.114.177/php/static/style.css">
+    <link rel="stylesheet" href="static/style.css">
     <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css" rel="stylesheet">
     <title>Gallery</title>
@@ -55,7 +55,7 @@
         </div>
     </div>
     <div class="burger-icon" onclick="show_burger()">
-        <img src="burger.svg" >
+        <img src="static/burger.svg" >
     </div>
     <div class="block white">
         <span class="title">
