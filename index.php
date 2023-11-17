@@ -54,7 +54,7 @@
         </div>
     </div>
     <div class="burger-icon" onclick="show_burger()">
-        <img src="burger.svg" >
+        <img src="static/burger.svg" >
     </div>
     <div class="block">
         <div class="avatar">
