@@ -20,4 +20,4 @@ jobs:
 
     - name: Deploy to remote server
       run: |
-        ssh minerec@45.152.114.177 "cd /var/www/danya && git pull origin develop"
+        ssh minerac@45.152.114.177 "cd /var/www/danya && git pull origin develop"
