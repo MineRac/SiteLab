@@ -58,7 +58,7 @@
     </div>
     <div class="block">
         <div class="avatar">
-            <img src="https://cdn4.telegram-cdn.org/file/Bl7aLbU0cEJsu6bbCdGWXMLK00K_KcNmHg43XXjZJFrfS5K2SWHvfNU8-8UigP7uROnpR8O_FOoYgr3y_rvHkCEDVov1iqREdHguZyG4dKlte7E0JeMHHhnL3DbsxUtaPo1hLia6ficVdhehXQND1vHnfhcHOUHj8BoUQ0tcqK6y_Q_PsIZEl9mJEY53P6aczJ2RomoYKBnrIIwjIxd0_fVuxrwC92Aw0jaGvEbwWiUXU3rey4O3pHxASnf5l2PmBK5LSYcyS_BwSpzL1ddsro1OHiKHdJzH7u6a3BzyfclAutRpk_H1pa1gddZzRrvFO4WZQz5qJ183Dzql9tzh5g.jpg">
+            <img src="https://cdn4.cdn-telegram.org/file/VvwD6-hFE7vGTALl831gWAp7rexgDKzJUHu24SCe27jmLTKPY3Xnc1RJ76kfpZu2Bj1yxhWVrG1Vk_7h219C_gGIgTyHOGMkOru-9pOIlqOWNYTn2ATAtb9_wQRVVsiH1UDaSRBy3uvz8KiuQUiSLNDJkOKnqAlytR69PROcY5OWqv-jho93HWJY1vI-5lYXmRI_6CWd1ZFvx81IcQwtcMx_Y6rCsJ56OpbMt9_pJoSgd9HOYAJ2yIIqBpAWELU0zgkjzfqdaI1eokijGWKB8kEtMbmBa2SQZ74g955TsG44D6AfX1nIcFSoDnJ-v-64eswRjuK5t_t3YjEn0CYvBA.jpg">
         </div>
         <span class="title">
                 Добро пожаловать на мой сайт! Меня зовут Даниил. На данном сайте вы можете ознакомится с моими работами.
