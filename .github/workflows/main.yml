@@ -19,7 +19,8 @@ jobs:
         ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
     - name: Update known hosts
-      run: ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
+      run: |
+        ssh-keyscan -t rsa 45.152.114.177 >> ~/.ssh/known_hosts
 
     - name: Deploy to remote server
       run: |
