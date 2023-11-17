@@ -11,7 +11,7 @@
 </head>
 <body>  
 <div class="buttons">
-    <a href="Gallery.php">Галерея</a>
+    <a href="Gallery.php">Гаааалерея</a>
     <a href="https://t.me/danya_maloy">Телеграм</a>
     <a href="mailto:minerec5@gmail.com">Почта</a>
     <a href="about.php">Обо мне</a>
