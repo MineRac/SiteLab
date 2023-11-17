@@ -6,14 +6,14 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="http://45.152.114.177/php/static/style.css">
+    <link rel="stylesheet" href="static/style.css">
     <title>Site</title>
 </head>
 <body>
 <?php
 if (isset($_COOKIE['token'])) {
     setcookie("token", "", time()-3600);
-    Header("Location: http://45.152.114.177/php/index.php");
+    Header("Location: index.php");
 }
 
 if (isset($_POST['username'])) {
@@ -37,7 +37,7 @@ if (isset($_POST['username'])) {
     else
     {
         setcookie("token", $token);
-        Header("Location: http://45.152.114.177/php/index.php");
+        Header("Location: index.php");
     }
 
 }
@@ -57,7 +57,7 @@ if (isset($_POST['username'])) {
         <span class="desc" style="color: lightcoral">Cлишком короткий пароль</span>
         <?php
     } ?>
-        <form action="http://45.152.114.177/php/register.php" method="post">
+        <form action="register.php" method="post">
             <input type="hidden" name="type" value="registration">
             <label>
                 <input name="username" type="text" placeholder="Ваш логин">
