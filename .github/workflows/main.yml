@@ -1,4 +1,4 @@
-name: Deploy to Web Server
+name: CI/CD
 
 on:
   push:
@@ -10,15 +10,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Deploy to Web Server
-        uses: appleboy/ssh-action@master
-        with:
-          host: ${{ secrets.WEB_SERVER_HOST }}
-          username: ${{ secrets.WEB_SERVER_USERNAME }}
-          key: ${{ secrets.WEB_SERVER_SSH_KEY }}
-          script: |
-            cd /var/www/danya
-            git pull origin develop
+    - name: Set up SSH key
+      uses: webfactory/ssh-agent@v0.4.2
+      with:
+        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+    - name: Deploy to remote server
+      run: |
+        ssh minerec@45.152.114.177 "cd /var/www/danya && git pull origin develop"
